@@ -1,0 +1,45 @@
+.feedback {
+	padding: 30px;
+	padding-top: 0px;
+	background-color: #fff;
+	height: auto;
+	border-left: 1px solid white;
+	color: #D20062;
+}
+#get-touch .get-touch-heading p {
+	margin-bottom: 20px;
+}
+.slider_pad {
+}
+body {
+	color: #D20062;
+}
+#footer {
+	background-color: #444444;
+}
+#main-nav .navbar-right li > a {
+	color: #333;
+}
+.fa_header a {
+	color: #333;
+}
+.fa_footer a {
+	color: #fff;
+}
+#get-touch {
+	padding: 8px;
+	padding-top: 0px;
+	margin-top: 4px;
+	border: 1px solid #c1b2b2;
+}
+@media screen and (max-width: 960px) {
+	.feedback {
+		margin-top: 40px;
+		margin-right: 15px;
+		margin-left: 15px;
+	}
+	.slider_pad {
+		margin-right: 15px;
+		margin-left: 15px;
+	}
+}
