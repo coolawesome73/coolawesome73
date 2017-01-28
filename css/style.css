@@ -1467,25 +1467,53 @@ h4 {
     padding-bottom: 5px;
     max-width: 30%;
 }
+.image1 {
+    padding-top: 3px;
+}
+
+.brus {
+    border: 3px solid #D20062;
+   
+    
+}
+
 
 .brustitle {
     font-weight: bold;
     font-size: 130%;
-    border-bottom: 2px solid maroon;
-    font-weight: normal;
-    padding-bottom: 5px;
 }
 
-.image1 {
-padding-top: 3px;
+.line_r {
+    margin-top: -10px;
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 12px;
+    margin-bottom: 10px;
 }
 
-.container2 {
+.brus2 {
     border: 3px solid #D20062;
-    border-radius: 10px;
-    margin: 7px;
-    padding: 10px;
+    
 }
-.logo {
-padding-left: 150px;
+
+.brus3 {
+    
+    border: 3px solid #D20062;
+    
+}
+
+
+.brustitle {
+    margin-top: 5px;
+    font-weight: lighter;
+    font-family: 'HelveticaNeueW47LtCn', Arial, sans-serif;
+    letter-spacing: .5px;
+    font-size: 20px;
+    font-size: 2rem;
+    color: #444;
+    text-transform: none;
+    line-height: 1.2;
+}
+
+.brus4 {
+padding-top: 30px;
 }
